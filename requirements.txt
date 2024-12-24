@@ -1,2 +1,9 @@
 pyserial
 pyqt5
+SpeechRecognition
+PyQt5
+transformers
+huggingface-hub
+torch
+mock
+PyAudio
