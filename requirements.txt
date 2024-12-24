@@ -7,3 +7,4 @@ huggingface-hub
 torch
 mock
 PyAudio
+pyttsx3

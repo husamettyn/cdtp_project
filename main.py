@@ -16,7 +16,6 @@ from transformers import pipeline
 from huggingface_hub import login
 import torch
 from mock import MockReader  # Your provided mock reader
-
 import pyttsx3  # <-- (1) TTS import
 
 class SpeechRecognitionThread(QThread):
